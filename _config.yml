@@ -47,6 +47,7 @@ markdown: kramdown
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-include-cache
 compress_html:
   clippings: all
   comments: all
@@ -60,3 +61,4 @@ exclude:
   - gulpfile.js
   - package.json
   - README.md
+  - vendor/bundle
