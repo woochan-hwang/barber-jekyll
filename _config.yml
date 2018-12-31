@@ -60,4 +60,3 @@ exclude:
   - gulpfile.js
   - package.json
   - README.md
-  - vendor/bundle/ruby/2.3.0/gems/jekyll-3.7.4/lib/site_template
